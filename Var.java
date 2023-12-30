@@ -15,6 +15,8 @@ class Var {
 
 	double pi=3.1415; //variable initilization 
 	System.out.println( pi );
+	
+	System.out.println("Hello this is Nero");
 
 	}
 }
